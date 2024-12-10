@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate for Data Analyst and Data Scientist from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar80026&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar80026" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkumar80026" alt="rahulkumar80026" /></a> </p>
